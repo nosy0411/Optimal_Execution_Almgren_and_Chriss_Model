@@ -1,20 +1,30 @@
 # Optimal_Execution_Almgren_and_Chriss_Model
-Almgren and Chriss Model For Optimal Execution of Portfolio Transactions
+Almgren and Chriss Model For Optimal Execution of Portfolio Transactions  
+
+Paper and summarized tex file uploaded as optimal_execution_summary.tex and pdf file.
 
 <br>
 <br>
 
 ## Almgren and Chriss Model
 
+Check Almgren and Chriss Model.ipynb
+
 <br>
 <br>
 
 ## Trading Lists
 
+Check Trading Lists.ipynb
+
+
 <br>
 <br>
 
 ## Efficient Frontier
+
+Check Efficient Frontier.ipynb
+
 
 <br>
 <br>
@@ -22,6 +32,8 @@ Almgren and Chriss Model For Optimal Execution of Portfolio Transactions
 ## Deep Reinforcement Learning
 
 Apply basic DRL framework for ddpg in our model
+Check DRL.ipynb
+
 <br>
 <br>
 
