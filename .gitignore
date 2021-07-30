@@ -1,0 +1,65 @@
+*.xlsx
+*.xls
+# *.pdf
+*.docs
+*.ppt
+*.pptx
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+*.log
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
+.Trashes
+.Thumbs.db
+.ehthumbs.db
+logs/
+#=> Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.buildpath
+.target
+.springBeans
+.recommenders/
+-----------------------------------------------------------------------------
+#=> VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+#=> 이클립스를 사용하면 생성되는 설정 파일 혹은 임시 파일들은 제외합니다. 
+#=> 해당 정보는 개발자마다 PC환경이 다르기 때문에 설정 정보를 넣어서 push하게 된다면
+#=> 해당 내용을 받는 개발자들에 이클립스 환경에 덮어쓰기가되어 동작하지않는 이슈가 생길 수 있습니다. 
+#=> 이클립스 뿐만아니라 다른 에디터를 사용하면서 생기는 설정, 임시 파일을 제외해주세요~
+-----------------------------------------------------------------------------
+# for LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.sty
+*.bib
+*.bbl
+*.blg
+*.DS_Store
